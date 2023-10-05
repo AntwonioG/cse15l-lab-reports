@@ -1,5 +1,4 @@
-This is a file
-
+Avetis Gasparian Lab Report 1 (I love Kendrick lamar)
 ```
 [user@sahara ~/lecture1]$ cd
 [user@sahara ~]$ cd lecture1/
