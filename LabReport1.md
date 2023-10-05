@@ -8,9 +8,9 @@ bash: cd: Hello.java: Not a directory
 [user@sahara ~/lecture1]$ 
 ```
 
-1. the first cd takes you from lecture1 to home because a directory wasn't listed and its not an error
-2. the second cd takes you from home to lecture1 directory because that was specified, its not an error
-3. the third cd starts in lecture1 and has an error because you passed it a file instead of a directory, which is not allowed
+1) the first cd takes you from lecture1 to home because a directory wasn't listed and its not an error
+2) the second cd takes you from home to lecture1 directory because that was specified, its not an error
+3) the third cd starts in lecture1 and has an error because you passed it a file instead of a directory, which is not allowed
 
 
 ```
