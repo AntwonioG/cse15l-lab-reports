@@ -1,1 +1,1 @@
-kendrick best rapper
+*italic* **bold**kendrick best rapper
