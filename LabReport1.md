@@ -39,6 +39,6 @@ javac Hello.java
 java Hello messages/en-us.txt
 ```
 
-1. the first cat starts in the lecture1 directory and breaks the program because it wasn't passed any arguments so it's trying to open nothing and infinitely trying until you cancel the request, so its an error. You can type into the terminal but it assumes the command is working so it wont do anything unless you do ctrl+z
-2. the second cat starts in lecture1 and realizes that passing it a directory instead of a file isn't allowed so it displays "not a directory" and is an error, but it doesn't break everything
-3. the third cat starts in lecture1 and works properly because it is passed a file that can be found in the lecture1 directory, so the result is the stuff in README and there is no error
+1. the first cat starts in the `lecture1` directory and breaks the program because it wasn't passed any arguments so it's trying to open nothing and infinitely trying until you cancel the request, so its an error. You can type into the terminal but it assumes the command is working so it wont do anything unless you do ctrl+z
+2. the second cat starts in `lecture1` and realizes that passing it a directory instead of a file isn't allowed so it displays "not a directory" and is an error, but it doesn't break everything
+3. the third cat starts in `lecture1` and works properly because it is passed a file that can be found in the lecture1 directory, so the result is the stuff in `README` and there is no error
