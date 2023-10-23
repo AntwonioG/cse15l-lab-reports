@@ -3,12 +3,14 @@ Avetis Gasparian Lab Report 2
 ## 1
 
 **First Screenshot**
+
 ![Image](https://media.discordapp.net/attachments/1087096047064588378/1165825388786761839/image.png?ex=65484280&is=6535cd80&hm=8c558212812775abe194442615e52da8f143cc68e61b00479e51a1db9120f4d9&=&width=978&height=112)
 
 A lot of the code is fluff due to it being a copy of the NumberServer we previously used, but the main components and values to keep track of are daString, and the query requests. In the first call originally daString is initialized to nothing aka "", after the query is put the code goes through the pathing. First it checks the slash, then continues, then checks the type of query in this case its "/add-message" then it checks if the parameters are right (if s is an s), lastly if all thats true it sets daString to what it was before + the new parameter + creates a new line, so the first call means ""(empty) + "hi+two" +"\n" new line. then prints it to the page
 
 **Second Screenshot**
-![Image](https://media.discordapp.net/attachments/1087096047064588378/1165824231909621821/image.pngex=6548416c&is=6535cc6c&hm=6c57de0f8c0d0b23c39d2c039632c71f531c98c3e1e1ca5912e6f6090d3db91c&=&width=1342&height=208)
+
+![Image](https://media.discordapp.net/attachments/1087096047064588378/1165824231909621821/image.png?ex=6548416c&is=6535cc6c&hm=6c57de0f8c0d0b23c39d2c039632c71f531c98c3e1e1ca5912e6f6090d3db91c&=&width=1342&height=208)
 
 For the next request it is almost completely the same except now when daString is made to equal itself + the parameters, there is actually something to add. This time it paths through the if statements checking if it's valid, then it sets daString to "hi+two" + "\n" + "(this one)"+ "\n" then returns it again.
 
