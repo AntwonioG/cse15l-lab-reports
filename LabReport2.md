@@ -62,11 +62,11 @@ class StringServer {
 
 **Screenshot of pub and priv key directories**
 
-![image](https://media.discordapp.net/attachments/1087096047064588378/1165828622435754004/image.pngex=65484583&is=6535d083&hm=d08515f42d3a6272656bd4a18e3f667823d55358d16515401fe1c842e50f0940&=&width=866&height=716)
+![image](https://media.discordapp.net/attachments/1087096047064588378/1165828622435754004/image.png?ex=65484583&is=6535d083&hm=d08515f42d3a6272656bd4a18e3f667823d55358d16515401fe1c842e50f0940&=&width=866&height=716)
 
 **Screenshot of logging in**
 
-![image](https://media.discordapp.net/attachments/1087096047064588378/1165833756016398396/image.pngex=65484a4b&is=6535d54b&hm=75bae627bc9c83e01f7c2d5bdb8162ec66d9980ec8fd8083ff3b3c1997e32953&=&width=1262&height=397)
+![image](https://media.discordapp.net/attachments/1087096047064588378/1165833756016398396/image.png?ex=65484a4b&is=6535d54b&hm=75bae627bc9c83e01f7c2d5bdb8162ec66d9980ec8fd8083ff3b3c1997e32953&=&width=1262&height=397)
 
 ## 3
 
