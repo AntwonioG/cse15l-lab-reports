@@ -4,7 +4,7 @@ Avetis Gasparian Lab Report 2
 
 **First Screenshot**
 
-![Image](https://media.discordapp.net/attachments/1087096047064588378/1165825388786761839/image.png?ex=65484280&is=6535cd80&hm=8c558212812775abe194442615e52da8f143cc68e61b00479e51a1db9120f4d9&=&width=978&height=112)
+![Image](https://github.com/AntwonioG/cse15l-lab-reports/blob/main/screenshots/image%20(5).png)
 
 A lot of the code is fluff due to it being a copy of the NumberServer we previously used, but the main components and values to keep track of are daString, and the query requests. In the first call originally daString is initialized to nothing aka "", after the query is put the code goes through the pathing. First it checks the slash, then continues, then checks the type of query in this case its "/add-message" then it checks if the parameters are right (if s is an s), lastly if all thats true it sets daString to what it was before + the new parameter + creates a new line, so the first call means ""(empty) + "hi+two" +"\n" new line. then prints it to the page
 
