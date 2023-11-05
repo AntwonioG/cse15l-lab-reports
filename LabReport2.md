@@ -10,7 +10,7 @@ A lot of the code is fluff due to it being a copy of the NumberServer we previou
 
 **Second Screenshot**
 
-![Image](https://media.discordapp.net/attachments/1087096047064588378/1165824231909621821/image.png?ex=6548416c&is=6535cc6c&hm=6c57de0f8c0d0b23c39d2c039632c71f531c98c3e1e1ca5912e6f6090d3db91c&=&width=1342&height=208)
+![Image](https://github.com/AntwonioG/cse15l-lab-reports/blob/main/screenshots/image%20(6).png)
 
 For the next request it is almost completely the same except now when daString is made to equal itself + the parameters, there is actually something to add. This time it paths through the if statements checking if it's valid, then it sets daString to "hi+two" + "\n" + "(this one)"+ "\n" then returns it again.
 
@@ -60,13 +60,27 @@ class StringServer {
 
 ## 2
 
-**Screenshot of pub and priv key directories**
+**Screenshot of pub key directory**
 
-![image](https://media.discordapp.net/attachments/1087096047064588378/1165828622435754004/image.png?ex=65484583&is=6535d083&hm=d08515f42d3a6272656bd4a18e3f667823d55358d16515401fe1c842e50f0940&=&width=866&height=716)
+![image](https://github.com/AntwonioG/cse15l-lab-reports/blob/main/screenshots/image%20(7).png)
 
-**Screenshot of logging in**
 
-![image](https://media.discordapp.net/attachments/1087096047064588378/1165833756016398396/image.png?ex=65484a4b&is=6535d54b&hm=75bae627bc9c83e01f7c2d5bdb8162ec66d9980ec8fd8083ff3b3c1997e32953&=&width=1262&height=397)
+**Screenshot of priv key directory**
+
+![image](https://github.com/AntwonioG/cse15l-lab-reports/blob/main/screenshots/image%20(8).png)
+
+
+**Screenshot of pub key in ieng6**
+
+![image](https://github.com/AntwonioG/cse15l-lab-reports/blob/main/screenshots/image%20(11).png)
+
+
+**Screenshots of logging in**
+
+![image](https://github.com/AntwonioG/cse15l-lab-reports/blob/main/screenshots/image%20(9).png)
+
+![image](https://github.com/AntwonioG/cse15l-lab-reports/blob/main/screenshots/image%20(10).png)
+
 
 ## 3
 
