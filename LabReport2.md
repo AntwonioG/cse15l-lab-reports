@@ -48,13 +48,13 @@ class StringServer {
 
 **First Screenshot**
 
-![Image](https://github.com/AntwonioG/cse15l-lab-reports/blob/main/screenshots/image%20(5).png)
+![Image]((https://raw.githubusercontent.com/AntwonioG/cse15l-lab-reports/main/screenshots/image%20(5).png)
 
 A lot of the code is fluff due to it being a copy of the NumberServer we previously used, but the main components and values to keep track of are daString, and the query requests. In the first call originally daString is initialized to nothing aka "", after the query is put the code goes through the pathing. First it checks the slash, then continues, then checks the type of query in this case its "/add-message" then it checks if the parameters are right (if s is an s), lastly if all thats true it sets daString to what it was before + the new parameter + creates a new line, so the first call means ""(empty) + "hi+two" +"\n" new line. then prints it to the page. The methods called are `handleRequest` where it checks the args of the query, in this case the `url.getPath` gets the url and then compares to the string `"/add-message"` and then when that argument passes the rest of the code runs using my newly created string variable `daString`
 
 **Second Screenshot**
 
-![Image](https://github.com/AntwonioG/cse15l-lab-reports/blob/main/screenshots/image%20(6).png)
+![Image]((https://raw.githubusercontent.com/AntwonioG/cse15l-lab-reports/main/screenshots/image%20(6).png)
 
 For the next request it is almost completely the same except now when daString is made to equal itself + the parameters, there is actually something to add. This time it paths through the if statements checking if it's valid, then it sets daString to "hi+two" + "\n" + "(this one)"+ "\n" then returns it again. for the next part the methods are the same but another string is appended to the total string `daString`, the method gets called with `handleRequest` where it checks the args of the query, in this case the `url.getPath` is compared to the string `"/add-message"` and then when that argument passes the rest of the code runs using the variable `daString` as the output place.
 
@@ -63,22 +63,22 @@ For the next request it is almost completely the same except now when daString i
 
 **Screenshot of pub key directory**
 
-![image](https://github.com/AntwonioG/cse15l-lab-reports/blob/main/screenshots/image%20(7).png)
+![image]((https://raw.githubusercontent.com/AntwonioG/cse15l-lab-reports/main/screenshots/image%20(7).png)
 
 
 **Screenshot of priv key directory**
 
-![image](https://github.com/AntwonioG/cse15l-lab-reports/blob/main/screenshots/image%20(8).png)
+![image]((https://raw.githubusercontent.com/AntwonioG/cse15l-lab-reports/main/screenshots/image%20(8).png)
 
 
 **Screenshot of pub key in ieng6**
 
-![image](https://github.com/AntwonioG/cse15l-lab-reports/blob/main/screenshots/image%20(11).png)
+![image](https://raw.githubusercontent.com/AntwonioG/cse15l-lab-reports/main/screenshots/image%20(11).png)
 
 
 **Screenshots of logging in**
 
-![image](https://github.com/AntwonioG/cse15l-lab-reports/blob/main/screenshots/image%20(9).png)
+![image](https://raw.githubusercontent.com/AntwonioG/cse15l-lab-reports/main/screenshots/image%20(9).png)
 
 ![image](https://raw.githubusercontent.com/AntwonioG/cse15l-lab-reports/main/screenshots/image%20(10).png)
 
