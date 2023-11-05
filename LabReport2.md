@@ -80,7 +80,7 @@ For the next request it is almost completely the same except now when daString i
 
 ![image](https://github.com/AntwonioG/cse15l-lab-reports/blob/main/screenshots/image%20(9).png)
 
-![image](https://github.com/AntwonioG/cse15l-lab-reports/blob/main/screenshots/image%20(10).png)
+![image](https://raw.githubusercontent.com/AntwonioG/cse15l-lab-reports/main/screenshots/image%20(10).png)
 
 
 ## 3
