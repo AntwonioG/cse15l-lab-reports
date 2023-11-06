@@ -202,7 +202,7 @@ technical/government/Gen_Account_Office/Sept27-2002_d02966.txt
 technical/government/Gen_Account_Office/Statements_Feb28-1997_volume.txt  
 ```
 
-the size command line argument can also be used to find files that are greater than a certain amount, in this case it lists files greater than 100 kb, this could be helpful in clearing up space or trying to optimize storage
+The size command line argument can also be used to find files that are greater than a certain amount, in this case it lists files greater than 100 kb, this could be helpful in clearing up space or trying to optimize storage
 
 
 
