@@ -27,6 +27,14 @@ public void testReverseInPlace() {
 
 ![image](https://raw.githubusercontent.com/AntwonioG/cse15l-lab-reports/main/screenshots/image.png)
 
+**The test cases**
+
+![image](https://raw.githubusercontent.com/AntwonioG/cse15l-lab-reports/main/screenshots/image%20(1).png)
+
+**What failed**
+
+Test case `testReverseInPLace2` fails while `testReversed`, `testReverseInPlace`, and `testReversed` all pass.
+
 **The bug**
 
 Before:
