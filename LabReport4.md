@@ -1,6 +1,5 @@
 # Lab Report 4
 
-
 ## Logging into ieng6
 
 **Screenshot**
@@ -10,6 +9,7 @@
 **Keys Pressed**
 
 `<up><up><enter>`
+
 The most recent thing in my history was logging in and logging out, so i went up twice and hit enter
 
 ## Cloning Repository
@@ -21,6 +21,7 @@ The most recent thing in my history was logging in and logging out, so i went up
 **Keys Pressed**
 
 `git clone` `<ctrl>+<v><enter>`
+
 I manually typed out git clone then copy pasted the ssh link from my github fork, then hit enter
 
 ## Run tests demonstrating failure
@@ -57,6 +58,7 @@ first i vim into the file using tab to autofill its name then adding the .java, 
 **Keys Pressed**
 
 `<up><up><enter>`
+
 I got up through my history where i previously ran the same test and hit enter
 
 ## Commit and push
@@ -68,5 +70,6 @@ I got up through my history where i previously ran the same test and hit enter
 **Keys pressed**
 
 `git add L` `<tab><enter>` `git commit -g "I love Kanye"` `<enter>` `git push` `<enter>`
+
 First i do git add and to specify the file i type L and use tab to autofill it, then i use git commit and write a little message, lastly i just push my commit
 
