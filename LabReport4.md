@@ -9,7 +9,8 @@
 
 **Keys Pressed**
 
-`<up><enter>`
+`<up><up><enter>`
+The most recent thing in my history was logging in and logging out, so i went up twice and hit enter
 
 ##Cloning Repository
 
@@ -20,6 +21,7 @@
 **Keys Pressed**
 
 `git clone` `<ctrl>+<v><enter>`
+I manually typed out git clone then copy pasted the ssh link from my github fork, then hit enter
 
 ##Run tests demonstrating failure
 
