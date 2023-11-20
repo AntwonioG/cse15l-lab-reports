@@ -40,7 +40,11 @@ first I ls to check the directory, then I cd into lab 7 using tab because it's t
 
 **Screenshot**
 
+![image](https://raw.githubusercontent.com/AntwonioG/cse15l-lab-reports/main/screenshots/lab4image%20(4).png)
+
 **Keys Pressed**
+
+`vim L` `<tab>` `.java` `<enter>` `<insert><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><right><right><right><right><right><right><right><right><right><right><right><right><escape>` `:wq`
 
 ## Running tests again
 
