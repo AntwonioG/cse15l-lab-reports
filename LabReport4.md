@@ -67,5 +67,6 @@ I got up through my history where i previously ran the same test and hit enter
 
 **Keys pressed**
 
-
+`git add L` `<tab><enter>` `git commit -g "I love Kanye"` `<enter>` `git push` `<enter>`
+First i do git add and to specify the file i type L and use tab to autofill it, then i use git commit and write a little message, lastly i just push my commit
 
