@@ -1,7 +1,7 @@
 # Lab Report 4
 
 
-##Logging into ieng6
+## Logging into ieng6
 
 **Screenshot**
 
@@ -12,7 +12,7 @@
 `<up><up><enter>`
 The most recent thing in my history was logging in and logging out, so i went up twice and hit enter
 
-##Cloning Repository
+## Cloning Repository
 
 **Screenshot**
 
@@ -23,10 +23,34 @@ The most recent thing in my history was logging in and logging out, so i went up
 `git clone` `<ctrl>+<v><enter>`
 I manually typed out git clone then copy pasted the ssh link from my github fork, then hit enter
 
-##Run tests demonstrating failure
+## Run tests demonstrating failure
 
 **Screenshot**
 
-image
+![image](https://raw.githubusercontent.com/AntwonioG/cse15l-lab-reports/main/screenshots/lab4image%20(3).png)
+
 
 **Keys Pressed**
+
+`ls` `<enter>` `cd l` `<tab><enter>` `ls` `<enter>` `vim t` `<tab><enter>` `:q` `<enter>` `bash t` `<tab><enter>`
+
+first I ls to check the directory, then I cd into lab 7 using tab because it's the only path starting with l, then I ls to see what there is again, after that i vim into the test.sh to see what the script does, test.sh compiles and runs the test files, next i leave with :q because i didnt change anything, then i just run the test.sh
+
+## Editing the code
+
+**Screenshot**
+
+**Keys Pressed**
+
+## Running tests again
+
+**Screenshot**
+
+**Keys Pressed**
+
+## Commit and push
+
+**Screenshot**
+
+**Keys pressed**
+
